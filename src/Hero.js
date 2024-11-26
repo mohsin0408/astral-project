@@ -116,6 +116,8 @@ const Hero = () => {
                     <img src={img1} alt="logo"/>
                 </div>
                 <div className="nav-link">
+                <a href="
+                ">Home</a>
                     <a href="">Products</a>
                     <a href="">About us</a>
                     <a href="">News & Media</a>
