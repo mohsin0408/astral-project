@@ -116,14 +116,13 @@ const Hero = () => {
                     <img src={img1} alt="logo"/>
                 </div>
                 <div className="nav-link">
-                <a href="
-                ">Home</a>
                     <a href="">Products</a>
                     <a href="">About us</a>
                     <a href="">News & Media</a>
                     <a href="">Become a Partner</a>
                     <a href="">Careers</a>
                     <a href="">Contact us</a>
+                    <a href=""></a>
                 </div>
             </nav>
             <button onClick={handleHeroImg} className="iconButton">
